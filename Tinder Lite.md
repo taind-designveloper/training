@@ -12,13 +12,13 @@ Tinder Lite is a  minimal web application version of [Tinder](https://play.googl
 
 ### Some Screens
 
-  ![snVEJP](snVEJP.jpg)
+  ![snVEJP](./assets/tinder/snVEJP.jpg)
 
- ![RYGviJ](RYGviJ.jpg)
+ ![RYGviJ](./assets/tinder/RYGviJ.jpg)
 
- ![5RsGaB](5RsGaB.jpg)
+ ![5RsGaB](./assets/tinder/5RsGaB.jpg)
 
- ![g5bRHU](g5bRHU.jpg)
+ ![g5bRHU](./assets/tinder/g5bRHU.jpg)
 
 ### Requirements
 
