@@ -21,13 +21,13 @@ Booking Lite is a powerful tool in order buy tickets from your favorite cinemas,
 
      ![cinemas](./assets/movies/cinemas.png)
 
-   - After selecting a time slot, user will be redirect to booking page, this pages require login:
+   - After selecting a time slot, user will be redirected to booking page, this page require login:
 
      ![quantity](./assets/movies/quantity.png)
 
      ![booking](./assets/movies/booking.png)
 
-   - After successful select suitable places, a notification email about this transaction will be sent to user's email 
+   - After successful selecting suitable places, a notification email about this transaction will be sent to user's email 
 
 3. Data Importation
 
