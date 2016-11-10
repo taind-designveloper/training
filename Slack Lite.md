@@ -13,12 +13,12 @@ Slack Lite is a minal web application version of Slack. It is a powerful communu
 
    - User uses a personal Facebook, Google account or manually fill email and password to create new account. Email address must be verified
 
+   - After creating new account user must choose team's name, update avatar then go to main messages board, team's creator is team's admin.
 
--    After creating new account user must choose team's name, update avatar then go to main messages board, team's creator is team's admin.
 
      ![board](assets/slack/board.png)
 
--    User can change and reset password
+   - User can change and reset password
 
 2. Invitation
 
