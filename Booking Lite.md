@@ -3,7 +3,11 @@
 ### Introduction
 
 Booking Lite is a powerful tool in order buy tickets from your favorite cinemas, just choose movies, cinema, time then take your electronic ticket and enjoy watching.
+### Tech Stack
 
+1. Meteor 
+2. React
+3. MongoDB
 ### Requirements
 
 1. User System
