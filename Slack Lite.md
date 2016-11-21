@@ -7,6 +7,12 @@ Slack Lite is a minal web application version of Slack. It is a powerful communu
 - Real time messaging and file sharing for one-to-one and group conversations
 - Powerful search tool, so you can find information easily
 
+### Tech Stack
+
+1. Meteor 
+2. React
+3. MongoDB
+
 ### Requirements
 
 1. User System
