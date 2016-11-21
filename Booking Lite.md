@@ -8,6 +8,7 @@ Booking Lite is a powerful tool in order buy tickets from your favorite cinemas,
 1. Meteor 
 2. React
 3. MongoDB
+
 ### Requirements
 
 1. User System
